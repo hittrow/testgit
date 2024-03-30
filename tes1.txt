@@ -1,0 +1,7 @@
+git clone
+git branch
+git checkout {for branch switching} {-b for creating new branch}
+git status
+git add . 
+git commit -m "git learn" 
+git push origin (branch name)
